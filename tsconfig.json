@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "ES6",
+    "target": "es5",
+    "noEmitOnError": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
